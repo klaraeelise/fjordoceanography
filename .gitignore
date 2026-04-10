@@ -1,0 +1,10 @@
+# Data directory
+data/
+
+#Learning Python stuff
+PythonTestRunGEOF337/
+
+# Literature
+literature/
+
+code/highres_bathy.npy
